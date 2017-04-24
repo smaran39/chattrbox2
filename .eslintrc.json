@@ -23,5 +23,11 @@
             "error",
             "always"
         ]
+    },
+
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType":"module"
     }
+
 }
